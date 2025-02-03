@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Alex!  
 
-I'm a **developer** studying **DevSecOps** and learning more about **C# and .NET**, with a focus on **SQL (Entity Framework)**. I have experience in **React frontend development** and enjoy tinkering with **Raspberry Pi** and electronics projects.
+I'm a **developer** studying **DevSecOps** and working with **C# and .NET**, focusing on **SQL (Entity Framework)** for backend development. I have experience with **React frontend development** and enjoy experimenting with **Raspberry Pi** and electronics projects.  
 
-### 🛠️ Tech I'm Learning  
+### 🛠️ Tech I Use  
 - **Frontend:** React, JavaScript  
 - **Backend:** C#, .NET, SQL (Entity Framework)  
 - **DevSecOps:** Secure coding, CI/CD  

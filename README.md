@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Alex!
-- 👀 I’m interested in web development and programming.
-- 🌱 I’m currently freelancing and making stuff for fun.
-- 💞️ I’m looking to collaborate on something fun and always open to new oportunities.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexander-beswick)
+👋 Hi, I’m Alex!
 
-<!---
-aob123/aob123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a developer with experience in frontend development with React and currently studying DevSecOps. My focus is on C# and .NET, working with SQL (Entity Framework) for backend development. I also enjoy experimenting with electronics projects using Raspberry Pi and other hardware.
+
+🛠️ What I Work With
+	•	🌍 Frontend Development – React, JavaScript, and UI/UX principles
+	•	💻 Backend Development – C#, .NET, and SQL with Entity Framework
+	•	🔐 DevSecOps – Secure coding, CI/CD, and cloud security
+	•	🔌 Electronics & Hardware – Raspberry Pi, Arduino, and small projects
+
+🚀 What I’m Interested In
+	•	⚡ Learning .NET for Frontend Development – Exploring Blazor, Razor Pages, and ASP.NET
+	•	🛡️ Security Best Practices – Integrating security into the development lifecycle
+
+🤝 Let’s Connect!
+	•	💡 Open to discussions on DevSecOps, .NET, React, and hardware projects
+	•	📫 Find me on LinkedIn
